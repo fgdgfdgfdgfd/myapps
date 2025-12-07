@@ -269,7 +269,11 @@ MIT License - see [debian/copyright](myapp/debian/copyright) for details.
 
 ### 👥 Author
 
-Nikita <ylolvideo@gmail.com>
+**Nikita** - Full Stack Developer  
+📧 Email: [ylolvideo@gmail.com](mailto:ylolvideo@gmail.com)  
+🔗 GitHub: [@fgdgfdgfdgfd](https://github.com/fgdgfdgfdgfd)  
+
+**Bio**: Passionate about creating efficient command-line tools and system utilities. Interested in Python, DevOps, and cross-platform development. Currently working on improving developer experience with smart installation tools and comprehensive documentation.
 
 ### 🤝 Contributing
 
@@ -539,7 +543,11 @@ MIT License - см. [debian/copyright](myapp/debian/copyright) для подро
 
 ### 👥 Автор
 
-Никита <ylolvideo@gmail.com>
+**Никита** - Full Stack Developer  
+📧 Email: [ylolvideo@gmail.com](mailto:ylolvideo@gmail.com)  
+🔗 GitHub: [@fgdgfdgfdgfd](https://github.com/fgdgfdgfdgfd)  
+
+**Bio**: Увлечен созданием эффективных утилит командной строки и системных инструментов. Интересуюсь Python, DevOps и кроссплатформенной разработкой. Сейчас работаю над улучшением опыта разработчиков благодаря умным инструментам установки и полной документации.
 
 ### 🤝 Вклад
 
