@@ -269,7 +269,7 @@ MIT License - see [debian/copyright](myapp/debian/copyright) for details.
 
 ### 👥 Author
 
-MyApp Team <team@myapp.dev>
+Nikita <ylolvideo@gmail.com>
 
 ### 🤝 Contributing
 
@@ -539,7 +539,7 @@ MIT License - см. [debian/copyright](myapp/debian/copyright) для подро
 
 ### 👥 Автор
 
-MyApp Team <team@myapp.dev>
+Никита <ylolvideo@gmail.com>
 
 ### 🤝 Вклад
 
