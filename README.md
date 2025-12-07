@@ -120,7 +120,7 @@ MIT License - see `debian/copyright` for details.
 
 ### 👥 Author
 
-MyApp Team <team@myapp.dev>
+MyApp Team ylolvideo@gmail.com
 
 ---
 
@@ -250,7 +250,7 @@ MyApp Team <team@myapp.dev>
 
 ## 👥 Автор
 
-MyApp Team <team@myapp.dev>
+MyApp Team ylolvideo@gmail.com
 
 ## 🐛 Сообщение о проблемах
 
